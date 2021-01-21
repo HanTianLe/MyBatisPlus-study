@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="edb91b5a-4b44-42fb-8554-6bb3c10f9451" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="HTML File" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\JetBrains\maven_repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lN7ogQqPZe2zkapc0b2dnfpoJ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mysql.8" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Study-02/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.htl.generator.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\IDEA_project\MyBatisPlus-study" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.htl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\IDEA_project\MyBatisPlus-study\Study-02\src\main\resources" />
+      <recent name="D:\Project\IDEA_project\MyBatisPlus-study" />
+      <recent name="D:\Project\IDEA_project\MyBatisPlus-study\Study-01\src\test\java\com\htl\mapper" />
+      <recent name="D:\Project\IDEA_project\MyBatisPlus-study\Study-01\src\main\resources" />
+      <recent name="D:\Project\IDEA_project\MyBatisPlus-study\Study-01\src\main\java\com\htl\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMapperTest.test">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.htl.Generator" />
+      <module name="Study-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountMapperTest.show (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.htl.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.htl.mapper.AccountMapperTest" />
+      <option name="METHOD_NAME" value="show" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountMapperTest.show" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.generator.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.htl.generator.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.htl.generator.mapper.AccountMapperTest" />
+      <option name="METHOD_NAME" value="show" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Study-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.htl.mapper" />
+      <option name="MAIN_CLASS_NAME" value="com.htl.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Study-02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.htl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.MainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyBatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Study-01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.htl.MyBatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Generator" />
+      <item itemvalue="JUnit.AccountMapperTest.show" />
+      <item itemvalue="JUnit.AccountMapperTest.show (1)" />
+      <item itemvalue="JUnit.UserMapperTest.test" />
+      <item itemvalue="Spring Boot.MyBatisPlusApplication" />
+      <item itemvalue="Spring Boot.MainApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMapperTest.test" />
+        <item itemvalue="JUnit.AccountMapperTest.show (1)" />
+        <item itemvalue="Spring Boot.MainApplication" />
+        <item itemvalue="JUnit.AccountMapperTest.show" />
+        <item itemvalue="Application.Generator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edb91b5a-4b44-42fb-8554-6bb3c10f9451" name="Default Changelist" comment="" />
+      <created>1607425871589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607425871589</updated>
+      <workItem from="1607425872786" duration="493000" />
+      <workItem from="1607768724271" duration="1253000" />
+      <workItem from="1607771407427" duration="1304000" />
+      <workItem from="1607821039443" duration="8000" />
+      <workItem from="1607832856742" duration="4816000" />
+      <workItem from="1607838763753" duration="3000" />
+      <workItem from="1607842429913" duration="2207000" />
+      <workItem from="1607855737964" duration="13000" />
+      <workItem from="1607855754327" duration="43000" />
+      <workItem from="1608114079179" duration="5435000" />
+      <workItem from="1608126958739" duration="2819000" />
+      <workItem from="1608160579421" duration="7650000" />
+      <workItem from="1608168306943" duration="7000" />
+      <workItem from="1608298600966" duration="14000" />
+      <workItem from="1608298646799" duration="4999000" />
+      <workItem from="1608303774043" duration="14000" />
+      <workItem from="1608303790864" duration="10000" />
+      <workItem from="1608335368243" duration="4514000" />
+      <workItem from="1608340581290" duration="51000" />
+      <workItem from="1608341491774" duration="3042000" />
+      <workItem from="1608353052134" duration="130000" />
+      <workItem from="1608353186324" duration="3000" />
+      <workItem from="1608353220810" duration="1089000" />
+      <workItem from="1608354323734" duration="16000" />
+      <workItem from="1608360292642" duration="1403000" />
+      <workItem from="1608361712268" duration="34000" />
+      <workItem from="1608361748843" duration="8000" />
+      <workItem from="1608362673820" duration="499000" />
+      <workItem from="1608628953097" duration="68000" />
+      <workItem from="1608636940708" duration="115000" />
+      <workItem from="1608637069671" duration="21000" />
+      <workItem from="1608644751035" duration="637000" />
+      <workItem from="1608645398389" duration="1211000" />
+      <workItem from="1608646629229" duration="92000" />
+      <workItem from="1608646729897" duration="11000" />
+      <workItem from="1608876482327" duration="7000" />
+      <workItem from="1609829175837" duration="188000" />
+      <workItem from="1610026548021" duration="3000" />
+      <workItem from="1610193777815" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="75" width="1126" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608646265145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="75" width="1126" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1608646265145" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1608119053394">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1608119053394" />
+    <state width="1493" height="469" key="GridCell.Tab.0.bottom" timestamp="1608646462410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608646462410" />
+    <state width="1493" height="469" key="GridCell.Tab.0.center" timestamp="1608646462410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1608646462410" />
+    <state width="1493" height="469" key="GridCell.Tab.0.left" timestamp="1608646462410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1608646462410" />
+    <state width="1493" height="469" key="GridCell.Tab.0.right" timestamp="1608646462410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1608646462410" />
+    <state width="1493" height="469" key="GridCell.Tab.1.bottom" timestamp="1608646395746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1608646395746" />
+    <state width="1493" height="469" key="GridCell.Tab.1.center" timestamp="1608646395746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1608646395746" />
+    <state width="1493" height="469" key="GridCell.Tab.1.left" timestamp="1608646395746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1608646395746" />
+    <state width="1493" height="469" key="GridCell.Tab.1.right" timestamp="1608646395746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="469" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1608646395746" />
+    <state width="232" height="477" key="HiddenNamespacesPopup" timestamp="1608343785316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="232" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1608343785316" />
+    <state x="270" y="56" key="SettingsEditor" timestamp="1608637014834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1608637014834" />
+    <state x="348" y="252" width="755" height="515" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1608645075938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="252" width="755" height="515" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1608645075938" />
+    <state x="538" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1608645887407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1608645887407" />
+    <state x="178" y="72" key="new project wizard" timestamp="1608341549843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608341549843" />
+  </component>
+</project>
